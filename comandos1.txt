@@ -2,3 +2,6 @@ Ejercicio 1:
 cd bin
 ls
 Ejercicio 2:
+cd tmp
+ls
+
