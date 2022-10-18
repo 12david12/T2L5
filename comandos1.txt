@@ -8,6 +8,8 @@ Ejercicio 3:
 ls | grep ^[t] | sort -r
 Ejercicio 4:
 ls /dev/tty??
-les /dev | grep ^tty..$
+ls /dev | grep ^tty..$
+Ejercicio 5:
+ls /dev/tty*[1-4]
 
 
