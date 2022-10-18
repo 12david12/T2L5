@@ -17,3 +17,5 @@ Ejercicio 7:
 ls -a /
 Ejercicio 8:
 ls /etc | grep -v [t]
+Ejercicio 9:
+ls -R
