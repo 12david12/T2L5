@@ -16,4 +16,4 @@ ls /dev/tty*C1
 Ejercicio 7:
 ls -a /
 Ejercicio 8:
-
+ls /etc | grep -v [t]
