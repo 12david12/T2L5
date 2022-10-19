@@ -4,3 +4,5 @@ Ejercicio 11:
 pwd
 Ejercicio 12:
 date
+Ejercicio 13:
+cd /home/
