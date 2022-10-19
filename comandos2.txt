@@ -1,3 +1,6 @@
 Ejercicio 10:
 cd tmp
 Ejercicio 11:
+pwd
+Ejercicio 12:
+date
