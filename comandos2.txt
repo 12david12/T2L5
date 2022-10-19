@@ -6,3 +6,5 @@ Ejercicio 12:
 date
 Ejercicio 13:
 cd /home/
+Ejercicio 14:
+pwd
