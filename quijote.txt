@@ -1,0 +1,5 @@
+Ejercicio 1:
+grep -ic quijote el_quijote.txt
+Ejercicio 2:
+cat el_quijote.txt | grep -v quijote | wc -l
+Ejercicio 3:
