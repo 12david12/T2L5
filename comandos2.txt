@@ -23,3 +23,6 @@ Ejercicio 19:
 cp ./PRUEBA/mensaje.txt ./PRUEBA/dir1/mensajeCopia
 cp ./PRUEBA/mensaje.txt ./PRUEBA/dir2/mensajeCopia
 cp ./PRUEBA/mensaje.txt ./PRUEBA/dir3/mensajeCopia
+cp mensaje /dir1 /dir2 /dir3
+Ejercicio 20: 
+ls -R PRUEBA
