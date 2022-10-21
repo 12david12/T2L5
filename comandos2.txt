@@ -9,3 +9,6 @@ cd /home/
 Ejercicio 14:
 pwd
 Ejercicio 15:
+ls -i
+Ejercicio 16
+mkdir prueba
