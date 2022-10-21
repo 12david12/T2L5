@@ -1,0 +1,28 @@
+Ejercicio 10:
+cd tmp
+Ejercicio 11:
+pwd
+Ejercicio 12:
+date
+Ejercicio 13:
+cd /home/
+Ejercicio 14:
+pwd
+Ejercicio 15:
+ls -i
+Ejercicio 16:
+mkdir PRUEBA
+Ejercicio 17:
+mkdir PRUEBA/dir1 dir2 dir3
+mkdir PRUEBA/dir1/ dir11
+mkdir PRUEBA/dir3/ dir31
+mkdir PRUEBA/dir3/dir31/ dir311 dir312
+Ejercicio 18:
+cat /etchostname > home/david/PRUEBA/mensaje.txt
+Ejercicio 19:
+cp ./PRUEBA/mensaje.txt ./PRUEBA/dir1/mensajeCopia
+cp ./PRUEBA/mensaje.txt ./PRUEBA/dir2/mensajeCopia
+cp ./PRUEBA/mensaje.txt ./PRUEBA/dir3/mensajeCopia
+cp mensaje /dir1 /dir2 /dir3
+Ejercicio 20: 
+ls -R PRUEBA
