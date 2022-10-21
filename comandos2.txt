@@ -20,4 +20,6 @@ mkdir PRUEBA/dir3/dir31/ dir311 dir312
 Ejercicio 18:
 cat /etchostname > home/david/PRUEBA/mensaje.txt
 Ejercicio 19:
-
+cp ./PRUEBA/mensaje.txt ./PRUEBA/dir1/mensajeCopia
+cp ./PRUEBA/mensaje.txt ./PRUEBA/dir2/mensajeCopia
+cp ./PRUEBA/mensaje.txt ./PRUEBA/dir3/mensajeCopia
