@@ -10,5 +10,7 @@ Ejercicio 14:
 pwd
 Ejercicio 15:
 ls -i
-Ejercicio 16
-mkdir prueba
+Ejercicio 16:
+mkdir PRUEBA
+Ejercicio 17:
+mkdir PRUEBA/dir1 dir2 dir3
